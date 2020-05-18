@@ -1,1 +1,1 @@
-#This is a website about buying fruit. It works better if it is run locally, but some functions on the server may be missing. For experience, the server address is http://47.96.142.125:8080 /. This address is applicable in China. I would appreciate your comments.
+#This is a website about buying fruit. It works better if it is run locally, but some functions on the server may be missing. For experience, the server address is http://www.dragonhl.top/ This address is applicable in China. I would appreciate your comments.
